@@ -3,11 +3,11 @@
 Árbol genealógico interactivo en Python, hecho solo con información pública y verificable (sin menores de edad).
 
 ## Equipo
-- Datos: (nombre)
-- Estructura: (nombre)
-- Visualización: (nombre)
-- Interfaz y búsquedas: (nombre)
-- Integración: (nombre)
+- Datos: (David Alejandro Sanchez Cañas)
+- Estructura: (Kevin Omar Salazar Lemus)
+- Visualización: (Stanley Esaú Hércules Quinteros)
+- Interfaz y búsquedas: (Angel Sebastián Martínez Orellana)
+- Integración: (Benjamin Antonio Lopez Lopez)
 
 ## Requisitos
 Python 3.10 o superior.
