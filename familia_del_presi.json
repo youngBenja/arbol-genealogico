@@ -1,0 +1,110 @@
+{
+  "raiz": "nayib",
+  "nota": "Solo informacion publica. Se excluyen menores de edad y datos no verificados. Los campos en null son datos que no se encontraron en fuentes confiables.",
+  "fuentes": {
+    "milenio": "https://amp.milenio.com/internacional/arbol-genealogico-nayib-bukele-quien-es-familia-el-salvador",
+    "cidob": "https://www.cidob.org/biografias_lideres_politicos/america_central_y_caribe/el_salvador/nayib_bukele_ortez",
+    "cidob_armando": "https://www.cidob.org/ca/lider-politico/nayib-bukele-ortez",
+    "buscabiografias": "https://www.buscabiografias.com/biografia/verDetalle/10954/Nayib Bukele",
+    "tunota_hermanos": "https://www.tunota.com/mundo/hermanos-de-nayib-bukele-quienes-forman-la-familia-bukele-y-a-que-se-dedican-los-hermanos-del-presidente-de-el-salvador-2024-02-04",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bukele_family"
+  },
+  "personas": [
+    {
+      "id": "nayib",
+      "nombre": "Nayib Armando Bukele Ortez",
+      "parentesco": "Presidente de El Salvador (persona central)",
+      "fecha_nacimiento": "1981-07-24",
+      "fecha_fallecimiento": null,
+      "descripcion": "Empresario y politico salvadoreno, nacido en San Salvador. Presidente desde 2019.",
+      "foto": null,
+      "padres": ["armando", "olga"],
+      "conyuge": "gabriela",
+      "fuentes": ["buscabiografias", "milenio"]
+    },
+    {
+      "id": "armando",
+      "nombre": "Armando Bukele Kattan",
+      "parentesco": "Padre",
+      "fecha_nacimiento": null,
+      "fecha_fallecimiento": "2015",
+      "descripcion": "Empresario e ingeniero quimico de origen palestino, de la familia paterna que emigro a El Salvador a inicios del siglo XX.",
+      "foto": null,
+      "padres": [],
+      "conyuge": "olga",
+      "fuentes": ["buscabiografias", "cidob_armando", "tunota_hermanos"]
+    },
+    {
+      "id": "olga",
+      "nombre": "Olga Marina Ortez",
+      "parentesco": "Madre",
+      "fecha_nacimiento": null,
+      "fecha_fallecimiento": null,
+      "descripcion": "Madre de Nayib y de sus tres hermanos.",
+      "foto": null,
+      "padres": [],
+      "conyuge": "armando",
+      "fuentes": ["buscabiografias", "cidob_armando", "tunota_hermanos"]
+    },
+    {
+      "id": "gabriela",
+      "nombre": "Gabriela Rodriguez de Bukele",
+      "parentesco": "Esposa",
+      "fecha_nacimiento": null,
+      "fecha_fallecimiento": null,
+      "descripcion": "Primera dama de El Salvador. Casada con Nayib desde 2014.",
+      "foto": null,
+      "padres": [],
+      "conyuge": "nayib",
+      "fuentes": ["buscabiografias"]
+    },
+    {
+      "id": "karim",
+      "nombre": "Karim Alberto Bukele Ortez",
+      "parentesco": "Hermano",
+      "fecha_nacimiento": "1986-03-10",
+      "fecha_fallecimiento": null,
+      "descripcion": "Empresario y politico salvadoreno.",
+      "foto": null,
+      "padres": ["armando", "olga"],
+      "conyuge": null,
+      "fuentes": ["milenio", "tunota_hermanos"]
+    },
+    {
+      "id": "yusef",
+      "nombre": "Yusef Ali Bukele Ortez",
+      "parentesco": "Hermano (mellizo de Ibrajim)",
+      "fecha_nacimiento": "1989-09-22",
+      "fecha_fallecimiento": null,
+      "descripcion": "Empresario, politico, economista y asesor de Nayib Bukele.",
+      "foto": null,
+      "padres": ["armando", "olga"],
+      "conyuge": null,
+      "fuentes": ["milenio", "tunota_hermanos"]
+    },
+    {
+      "id": "ibrajim",
+      "nombre": "Ibrajim Antonio Bukele Ortez",
+      "parentesco": "Hermano (mellizo de Yusef)",
+      "fecha_nacimiento": null,
+      "fecha_fallecimiento": null,
+      "descripcion": "Hermano mellizo de Yusef. Falta confirmar su fecha de nacimiento en una fuente confiable.",
+      "foto": null,
+      "padres": ["armando", "olga"],
+      "conyuge": null,
+      "fuentes": ["tunota_hermanos", "cidob_armando"]
+    },
+    {
+      "id": "yamil",
+      "nombre": "Yamil Alejandro Bukele Perez",
+      "parentesco": "Medio hermano (por parte del padre)",
+      "fecha_nacimiento": null,
+      "fecha_fallecimiento": null,
+      "descripcion": "Director del Instituto Nacional de los Deportes de El Salvador (INDES) desde 2019. Es uno de los seis medios hermanos de Nayib por parte de su padre.",
+      "foto": null,
+      "padres": ["armando"],
+      "conyuge": null,
+      "fuentes": ["milenio"]
+    }
+  ]
+}
